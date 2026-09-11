@@ -6,7 +6,7 @@ def interpreter(code: str) -> str:
 
     for command in commands:
         if not (command.startswith('M') and command.endswith('w') and len(command) >= 3):
-            return "Error"
+            continue
 
         com_type = command[1]
         n = command.count('a')
