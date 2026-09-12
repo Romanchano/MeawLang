@@ -3,9 +3,9 @@
 **MeawLang** is a minimalist, scalable, byte-oriented esoteric programming language with a feline-inspired syntax. It is heavily inspired by classic esolangs like MiniStringFuck and Chicken, utilizing unary numeral system concepts for handling arguments.
 
 ```text
- /\_/\   MeawLang by S.A. Roman
-( o.o )  [ Byte-oriented ]
- > ^ <   [ Feline Esolang ]
+ /\_/\   
+( o.o ) 
+ > ^ <  
 ```
 
 ## Concept and Uniqueness
